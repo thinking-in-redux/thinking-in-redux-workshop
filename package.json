@@ -1,0 +1,27 @@
+{
+  "name": "thinking-in-redux",
+  "version": "0.1.1",
+  "private": false,
+  "dependencies": {
+    "json-server": "^0.12.2",
+    "normalize.css": "8.0.0",
+    "normalizr": "^3.2.4",
+    "ramda": "0.25.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-redux": "5.0.7",
+    "react-scripts": "1.1.1",
+    "redux": "3.7.2",
+    "redux-devtools": "3.4.1",
+    "redux-devtools-inspector": "0.11.3",
+    "redux-observable": "0.18.0",
+    "reselect": "^3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "api": "json-server db.json -p 3001 -d 1000",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

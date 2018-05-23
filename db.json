@@ -1,0 +1,1249 @@
+{
+  "books" : {
+    "kind": "books#volumes",
+    "totalItems": 1806,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "apZGDwAAQBAJ",
+        "etag": "l/jSf4Y3Fo0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/apZGDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Learning Redux",
+          "authors": [
+            "Daniel Bugl"
+          ],
+          "publisher": "Packt Publishing Ltd",
+          "publishedDate": "2017-08-31",
+          "description": "Build consistent web apps with Redux by easily centralizing the state of your application. About This Book Write applications that behave consistently, run in different environments (client, server and native), and are easy to test Take your web apps to the next level by combining the power of Redux with other frameworks such as React and Angular Uncover the best practices and hidden features of Redux to build applications that are powerful, consistent, and maintainable Who This Book Is For This book targets developers who are already fluent in JavaScript but want to extend their web development skills to develop and maintain bigger applications. What You Will Learn Understand why and how Redux works Implement the basic elements of Redux Use Redux in combination with React/Angular to develop a web application Debug a Redux application Interface with external APIs with Redux Implement user authentication with Redux Write tests for all elements of a Redux application Implement simple and more advanced routing with Redux Learn about server-side rendering with Redux and React Create higher-order reducers for Redux Extend the Redux store via middleware In Detail The book starts with a short introduction to the principles and the ecosystem of Redux, then moves on to show how to implement the basic elements of Redux and put them together. Afterward, you are going to learn how to integrate Redux with other frameworks, such as React and Angular. Along the way, you are going to develop a blog application. To practice developing growing applications with Redux, we are going to start from nothing and keep adding features to our application throughout the book. You are going to learn how to integrate and use Redux DevTools to debug applications, and access external APIs with Redux. You are also going to get acquainted with writing tests for all elements of a Redux application. Furthermore, we are going to cover important concepts in web development, such as routing, user authentication, and communication with a backend server After explaining how to use Redux and how powerful its ecosystem can be, the book teaches you how to make your own abstractions on top of Redux, such as higher-order reducers and middleware. By the end of the book, you are going to be able to develop and maintain Redux applications with ease. In addition to learning about Redux, you are going be familiar with its ecosystem, and learn a lot about JavaScript itself, including best practices and patterns. Style and approach This practical guide will teach you how to develop a complex, data-intensive application leveraging the capabilities of the Redux framework.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781786469533"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1786469537"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 374,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=apZGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=apZGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=apZGDwAAQBAJ&printsec=frontcover&dq=redux&hl=&cd=1&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=apZGDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://market.android.com/details?id=book-apZGDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 39.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 31.19,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=apZGDwAAQBAJ&rdid=book-apZGDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 39990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 31190000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=apZGDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "About This Book Write applications that behave consistently, run in different environments (client, server and native), and are easy to test Take your web apps to the next level by combining the power of Redux with other frameworks such as ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "xEM0tAEACAAJ",
+        "etag": "4XKLIcjXZz0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/xEM0tAEACAAJ",
+        "volumeInfo": {
+          "title": "Redux in Action",
+          "authors": [
+            "Marc Garreau",
+            "Will Faurot"
+          ],
+          "publisher": "Pearson Professional",
+          "publishedDate": "2018-03-28",
+          "description": "The Redux JavaScript library consolidates state in a single object, radically simplifying one of the largest sources of bugs. With Redux in Action, you'll discover how to integrate Redux into your React application and development environment, write custom middleware, and optimize for performance. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "1617294977"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9781617294976"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 300,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=xEM0tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=xEM0tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=xEM0tAEACAAJ&dq=redux&hl=&cd=2&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=xEM0tAEACAAJ&dq=redux&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Redux_in_Action.html?hl=&id=xEM0tAEACAAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=xEM0tAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "u_jppBwNG3AC",
+        "etag": "Mq4hN2Pdop4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/u_jppBwNG3AC",
+        "volumeInfo": {
+          "title": "Redux",
+          "subtitle": "Designs that Reuse, Recycle, and Reveal",
+          "authors": [
+            "Jennifer Roberts"
+          ],
+          "publisher": "Gibbs Smith",
+          "publishedDate": "2005",
+          "description": "Emphasizing the principles of healthfulness, durability, and comfort, a complete guide to creating a \"green\" home with recycled, salvaged, and environmentally healthy mateirals offers practical suggestions for remodeling, redecorating, and building from scratch, along with tips on how to find materials, new construction techniques, and more.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781586857011"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1586857010"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 160,
+          "printType": "BOOK",
+          "categories": [
+            "Architecture"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.0.0.preview.1",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=u_jppBwNG3AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=u_jppBwNG3AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=u_jppBwNG3AC&printsec=frontcover&dq=redux&hl=&cd=3&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=u_jppBwNG3AC&dq=redux&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Redux.html?hl=&id=u_jppBwNG3AC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Redux-sample-pdf.acsm?id=u_jppBwNG3AC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=u_jppBwNG3AC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Homes showcased span the spectrum of reuse, from places where the recycling story is behind the walls to homes that wear their salvage on their sleeves. Many are eco-sensitive renovations of old or not-so-old houses."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "PUAaDAAAQBAJ",
+        "etag": "t94llBLaxyI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/PUAaDAAAQBAJ",
+        "volumeInfo": {
+          "title": "Redux",
+          "authors": [
+            "A.L. Davroe"
+          ],
+          "publisher": "Entangled: Teen",
+          "publishedDate": "2017-03-21",
+          "description": "The domed city of Evanescence is in ruins. With nowhere to go, prodigy hacker Ellani “Ella” Drexel and a small band of survivors flee to the Undertunnel below their city. To escape the wasteland she unknowingly created. But sanctuary is hard to find. With malfunctioning androids and angry rebels at their backs, the group hopes to press on for the neighboring city of Cadence. But Ella’s chosen path is challenging...life-threatening, even. Worse, the boy she loves is acting distant, and not at all like the person she first met in Nexis. But then Ella learns a secret...and it changes everything. Ella knows she needs to turn back and make a stand to reclaim her home. She’s determined to bring a new—and better—life to all who’ve suffered. Or die trying.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781633755062"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1633755061"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 428,
+          "printType": "BOOK",
+          "categories": [
+            "Juvenile Fiction"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.2.0.preview.2",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=PUAaDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=PUAaDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=PUAaDAAAQBAJ&printsec=frontcover&dq=redux&hl=&cd=4&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=PUAaDAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://market.android.com/details?id=book-PUAaDAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 5.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 5.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=PUAaDAAAQBAJ&rdid=book-PUAaDAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 5990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 5990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Redux-sample-epub.acsm?id=PUAaDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=PUAaDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "The domed city of Evanescence is in ruins."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "ohnQr0ij3S8C",
+        "etag": "Gc314U9Qk6k",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ohnQr0ij3S8C",
+        "volumeInfo": {
+          "title": "Rabbit Redux",
+          "authors": [
+            "John Updike"
+          ],
+          "publisher": "Random House",
+          "publishedDate": "2010-08-26",
+          "description": "In this sequel to Rabbit, Run, John Updike resumes the spiritual quest of his anxious Everyman, Harry “Rabbit” Angstrom. Ten years have passed; the impulsive former athlete has become a paunchy thirty-six-year-old conservative, and Eisenhower’s becalmed America has become 1969’s lurid turmoil of technology, fantasy, drugs, and violence. Rabbit is abandoned by his family, his home invaded by a runaway and a radical, his past reduced to a ruined inner landscape; still he clings to semblances of decency and responsibility, and yearns to belong and to believe.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780307744081"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0307744086"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 448,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 3,
+          "ratingsCount": 15,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "2.7.5.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ohnQr0ij3S8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ohnQr0ij3S8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=ohnQr0ij3S8C&printsec=frontcover&dq=redux&hl=&cd=5&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=ohnQr0ij3S8C&source=gbs_api",
+          "canonicalVolumeLink": "https://market.android.com/details?id=book-ohnQr0ij3S8C"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 11.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 11.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=ohnQr0ij3S8C&rdid=book-ohnQr0ij3S8C&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 11990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 11990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Rabbit_Redux-sample-epub.acsm?id=ohnQr0ij3S8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=ohnQr0ij3S8C&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "In this sequel to Rabbit, Run, John Updike resumes the spiritual quest of his anxious Everyman, Harry “Rabbit” Angstrom."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "cSeXRWTCO5wC",
+        "etag": "zvR8kHGFryg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/cSeXRWTCO5wC",
+        "volumeInfo": {
+          "title": "Death By Chocolate: Redux",
+          "authors": [
+            "David Yurkovich"
+          ],
+          "publisher": "Top Shelf Productions",
+          "publishedDate": "2012",
+          "description": "\"Yurkovich's twisty imagination carries readers along, aided by a strong undercurrent of yearning, as these stories become increasingly about men bound by responsibilities they never asked for...\" --The AV Club \"There are readers out there who are searching from something different in their superhero comics. They read Hellboy and The League of Extraordinary Gentlemen, and they probably like The Surrogates (also from Top Shelf). Well, this is for them.\"--Leroy Douresseaux, Comic Book Bin \"FOR FANS OF... Film noir; dark chocolate. DOES IT DELIVER? It delivers so copiously that, if anything, you'll go into sugar shock.\"--Ken Tucker, Entertainment Weekly Agent Swete -- an unlikely hero comprised of organic chocolate and a member of the FBI's Food Crimes Division -- and his sharp-tongued partner, Anderson, investigate a series of bizarre, food-inspired crimes. Along they way they encounter a variety of characters including an extraterrestrial canine named Geoffrey, writer Ernest Hemingway, an organized crime lord intent upon finding the life-enabling 'eternity pasta,' and an eerie, all-devouring trio known as The Metabolators. This collection includes the Xeric-grant awarded origin tale of Agent Swete, a never-before published Death By Chocolate tale, and an essay by Yurkovich on the creation of the series. Every page has been reworked by Yurkovich, making Redux the definitive edition of these stories.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781603091725"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1603091726"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "3.3.3.0.preview.3",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=cSeXRWTCO5wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=cSeXRWTCO5wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=cSeXRWTCO5wC&printsec=frontcover&dq=redux&hl=&cd=6&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=cSeXRWTCO5wC&source=gbs_api",
+          "canonicalVolumeLink": "https://market.android.com/details?id=book-cSeXRWTCO5wC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 7.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 7.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=cSeXRWTCO5wC&rdid=book-cSeXRWTCO5wC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 7990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 7990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Death_By_Chocolate_Redux-sample-epub.acsm?id=cSeXRWTCO5wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Death_By_Chocolate_Redux-sample-pdf.acsm?id=cSeXRWTCO5wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=cSeXRWTCO5wC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "&quot;Yurkovich&#39;s twisty imagination carries readers along, aided by a strong undercurrent of yearning, as these stories become increasingly about men bound by responsibilities they never asked for."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "emRwnTVeDOQC",
+        "etag": "jIQDQXksYW0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/emRwnTVeDOQC",
+        "volumeInfo": {
+          "title": "Radio Redux",
+          "authors": [
+            "Jo Glanville"
+          ],
+          "publisher": "SAGE Publications Ltd",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781446244647"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1446244644"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=emRwnTVeDOQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=emRwnTVeDOQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=emRwnTVeDOQC&printsec=frontcover&dq=redux&hl=&cd=7&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=emRwnTVeDOQC&source=gbs_api",
+          "canonicalVolumeLink": "https://market.android.com/details?id=book-emRwnTVeDOQC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE_AND_RENTAL",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 12.95,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 9.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=emRwnTVeDOQC&rdid=book-emRwnTVeDOQC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 12950000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 9990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            },
+            {
+              "finskyOfferType": 3,
+              "listPrice": {
+                "amountInMicros": 5830000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 5600000,
+                "currencyCode": "USD"
+              },
+              "rentalDuration": {
+                "unit": "DAY",
+                "count": 90
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Radio_Redux-sample-pdf.acsm?id=emRwnTVeDOQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=emRwnTVeDOQC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "ZuisMJOOsbEC",
+        "etag": "ATs4DybFJy4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ZuisMJOOsbEC",
+        "volumeInfo": {
+          "title": "Feminisms Redux",
+          "subtitle": "An Anthology of Literary Theory and Criticism",
+          "authors": [
+            "Diane Price Herndl"
+          ],
+          "publisher": "Rutgers University Press",
+          "publishedDate": "2009",
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 542,
+          "printType": "BOOK",
+          "categories": [
+            "Feminism and literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.0.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ZuisMJOOsbEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ZuisMJOOsbEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=ZuisMJOOsbEC&pg=PA411&dq=redux&hl=&cd=8&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=ZuisMJOOsbEC&dq=redux&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Feminisms_Redux.html?hl=&id=ZuisMJOOsbEC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Feminisms_Redux-sample-epub.acsm?id=ZuisMJOOsbEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=ZuisMJOOsbEC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "The essays in this section represent diverse methodologies, but most take a <br>\npoststructural approach to the body; readers may find “The Pattern of Feminisms <br>\n<b>Redux</b>” section of the general introduction to this volume useful for its <br>\nexplanations of&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "uYiGA6QNE8sC",
+        "etag": "Nnw7KqTReG8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/uYiGA6QNE8sC",
+        "volumeInfo": {
+          "title": "Googie Redux",
+          "subtitle": "Ultramodern Roadside Architecture",
+          "authors": [
+            "Alan Hess"
+          ],
+          "publisher": "Chronicle Books",
+          "publishedDate": "2004-10-14",
+          "description": "A revised, updated, and expanded edition of the classic study of the mid-twentieth-century icon, the coffee shop, explores the impact of a building that was emblematic of southern California car culture on the architectural development of stylized eateries and other roadside buildings. Original. 15,000 first printing.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "081184272X"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780811842723"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 222,
+          "printType": "BOOK",
+          "categories": [
+            "Architecture"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.0.1.0.preview.1",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=uYiGA6QNE8sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=uYiGA6QNE8sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=uYiGA6QNE8sC&pg=PA22&dq=redux&hl=&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=uYiGA6QNE8sC&dq=redux&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Googie_Redux.html?hl=&id=uYiGA6QNE8sC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=uYiGA6QNE8sC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "fMFtAwAAQBAJ",
+        "etag": "0BPUj3EZRnk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/fMFtAwAAQBAJ",
+        "volumeInfo": {
+          "title": "Redux",
+          "authors": [
+            "SEAN MCKEITHEN"
+          ],
+          "publisher": "Trafford Publishing",
+          "publishedDate": "2014-03-31",
+          "description": "The book is about the way that people feel about the world and what makes it possible. Since it is completely fictional it is not an educational book but a thought on what we know is normal as opposed to what we want to think about as normal. The book does not cover everything but is fun to read and when it is a story is actually interesting to experience. Once in a while a book comes out that is original and Sean Mckeithen hit a home run on originality with the book Redux. The book is a little long and the editing will be interesting some times the voice fails slightly but if it is printed it will be a good book for children.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781490732534"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1490732535"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 304,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=fMFtAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=fMFtAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=fMFtAwAAQBAJ&pg=PT71&dq=redux&hl=&cd=10&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=fMFtAwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://market.android.com/details?id=book-fMFtAwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 3.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 3.03,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=fMFtAwAAQBAJ&rdid=book-fMFtAwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 3990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 3030000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Redux-sample-epub.acsm?id=fMFtAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Redux-sample-pdf.acsm?id=fMFtAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=fMFtAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Since he was a <b>redux</b>, very powerful. He was told to makeaninsanity <br>\neveryhalfhour.Sincethe insanity was the same, he did thiswithoutthinking <br>\naboutitandwasnotat hatred actually. Since an elf seven was a highranking <b>redux</b>, <br>\nit was important&nbsp;..."
+        }
+      }
+    ]
+  },
+  "users" : {
+    "results": [
+      {
+        "gender": "male",
+        "name": {
+          "title": "mr",
+          "first": "philippe",
+          "last": "ginnish"
+        },
+        "location": {
+          "street": "1490 pine rd",
+          "city": "chesterville",
+          "state": "manitoba",
+          "postcode": 77482
+        },
+        "email": "philippe.ginnish@example.com",
+        "login": {
+          "username": "lazyfish527",
+          "password": "anna",
+          "salt": "HWkDd1sn",
+          "md5": "eb74ca37e63bc31c4d6b54044e8e02f5",
+          "sha1": "1fb7c83dd9cdb264d97386b98d8f11b43f9c7a6b",
+          "sha256": "a533ce09a5bf2c1b2769a898ffa7b98480300abe52e53e8fca43716a8dcb0055"
+        },
+        "dob": "1994-07-06 12:46:39",
+        "registered": "2007-10-03 13:19:45",
+        "phone": "211-442-1674",
+        "cell": "396-755-7414",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/23.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
+        },
+        "nat": "CA"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "mr",
+          "first": "malo",
+          "last": "blanchard"
+        },
+        "location": {
+          "street": "1037 route de genas",
+          "city": "champigny-sur-marne",
+          "state": "yonne",
+          "postcode": 48516
+        },
+        "email": "malo.blanchard@example.com",
+        "login": {
+          "username": "greenelephant116",
+          "password": "charge",
+          "salt": "bygUyNj9",
+          "md5": "b71b86f3e18984a2c06d879fecfdd2be",
+          "sha1": "d1e244206547db9f50edc05b733d4356db22a188",
+          "sha256": "a95498f808b6b7cd40542093a55914d38c2b396064f71f3140f7c67bca6ee531"
+        },
+        "dob": "1964-05-18 21:53:13",
+        "registered": "2014-05-17 16:19:24",
+        "phone": "04-24-96-14-89",
+        "cell": "06-59-46-32-27",
+        "id": {
+          "name": "INSEE",
+          "value": "164446774311 22"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/36.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+        },
+        "nat": "FR"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "miss",
+          "first": "jeanne",
+          "last": "tremblay"
+        },
+        "location": {
+          "street": "2631 wellington st",
+          "city": "sidney",
+          "state": "québec",
+          "postcode": 64692
+        },
+        "email": "jeanne.tremblay@example.com",
+        "login": {
+          "username": "bluegorilla619",
+          "password": "1016",
+          "salt": "yjaVP6FV",
+          "md5": "7de41142afbc452d232c88caaa74fca1",
+          "sha1": "cbdf85f4ae556bf982e11fe454625b8d4cc02717",
+          "sha256": "8146d7947a6f861369e8573866225889be0d04e7e9c6ddfab3f50830a4461bc2"
+        },
+        "dob": "1972-09-10 10:13:32",
+        "registered": "2003-08-22 15:38:57",
+        "phone": "205-895-7423",
+        "cell": "897-937-9306",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/39.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/39.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/39.jpg"
+        },
+        "nat": "CA"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "miss",
+          "first": "phoebe",
+          "last": "wade"
+        },
+        "location": {
+          "street": "8541 church street",
+          "city": "carlow",
+          "state": "cork city",
+          "postcode": 56972
+        },
+        "email": "phoebe.wade@example.com",
+        "login": {
+          "username": "yellowgoose624",
+          "password": "columbia",
+          "salt": "fwu3Mz1O",
+          "md5": "0c4edbce3d0c2fffa79021f07007a8da",
+          "sha1": "c81aa28cb624691fd5a3c0a576ddd763e20700fb",
+          "sha256": "ede3742bbb393c0f3fd93687da75bac09e17762a5b93b0d9585017344d0af371"
+        },
+        "dob": "1977-12-11 10:25:12",
+        "registered": "2005-07-13 12:05:17",
+        "phone": "041-664-7683",
+        "cell": "081-627-2148",
+        "id": {
+          "name": "PPS",
+          "value": "5244709T"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/52.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+        },
+        "nat": "IE"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "ms",
+          "first": "ashley",
+          "last": "gregory"
+        },
+        "location": {
+          "street": "9086 mill road",
+          "city": "salford",
+          "state": "county down",
+          "postcode": "HL66 0LN"
+        },
+        "email": "ashley.gregory@example.com",
+        "login": {
+          "username": "silvercat566",
+          "password": "thuglife",
+          "salt": "SJ3RaKK8",
+          "md5": "878b1d38625be9b2b4a326a04e6df039",
+          "sha1": "d120f7225877cfe8bdb76e75c2f2d755f7bbf4ff",
+          "sha256": "f1734e36d7752f363ced46b4a7dc940a720c205466e75cd62e27a640aaf5c547"
+        },
+        "dob": "1976-10-01 12:01:27",
+        "registered": "2016-05-16 16:35:31",
+        "phone": "027 7394 3518",
+        "cell": "0758-022-680",
+        "id": {
+          "name": "NINO",
+          "value": "CE 54 81 17 Y"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/62.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+        },
+        "nat": "GB"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "mademoiselle",
+          "first": "eléna",
+          "last": "vincent"
+        },
+        "location": {
+          "street": "8173 rue louis-blanqui",
+          "city": "poliez-le-grand",
+          "state": "graubünden",
+          "postcode": 3098
+        },
+        "email": "eléna.vincent@example.com",
+        "login": {
+          "username": "bigsnake135",
+          "password": "rocker",
+          "salt": "1cJJaf4X",
+          "md5": "56e0c8cb2c626854edc7592264e373c1",
+          "sha1": "7bda4fe36e52e7b2ac76eb7de9e62a64a73e354b",
+          "sha256": "63d040d3fad1167c1cd52f225a1b9b8ea273029abe2dc2c96bd5f1ca2576b136"
+        },
+        "dob": "1985-10-10 03:01:53",
+        "registered": "2010-05-21 18:38:18",
+        "phone": "(026)-678-6827",
+        "cell": "(456)-161-4108",
+        "id": {
+          "name": "AVS",
+          "value": "756.WZVH.QXFH.53"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/0.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/0.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
+        },
+        "nat": "CH"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "ms",
+          "first": "fatma",
+          "last": "yazıcı"
+        },
+        "location": {
+          "street": "5012 anafartalar cd",
+          "city": "kilis",
+          "state": "amasya",
+          "postcode": 20574
+        },
+        "email": "fatma.yazıcı@example.com",
+        "login": {
+          "username": "purpletiger211",
+          "password": "cookies",
+          "salt": "7KPTUdDY",
+          "md5": "13a091222df4031f5770285ed7eb771d",
+          "sha1": "4ca61f1f3ca746f062890dc00caf28b70b396daa",
+          "sha256": "ecda9ae9e6a100390526f14c8b497a7ae9f5c89196b5f6c4f73000863e68822a"
+        },
+        "dob": "1966-11-10 08:40:30",
+        "registered": "2002-08-31 18:01:53",
+        "phone": "(000)-632-8088",
+        "cell": "(412)-715-1213",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/74.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
+        },
+        "nat": "TR"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "mr",
+          "first": "بردیا",
+          "last": "سالاری"
+        },
+        "location": {
+          "street": "6651 امیرکبیر",
+          "city": "خرم‌آباد",
+          "state": "کردستان",
+          "postcode": 18616
+        },
+        "email": "بردیا.سالاری@example.com",
+        "login": {
+          "username": "beautifultiger609",
+          "password": "nobody",
+          "salt": "00oY1F7k",
+          "md5": "a1f05a12d0f80cfe73f3fe66d80835cc",
+          "sha1": "e1c58a28c44b429b03fbad0e3cfb5d497bdcb0ff",
+          "sha256": "53b7c61b6bc14af8adc4be7707dd8c96eb9a65d8f03cbca277025ee4420a299c"
+        },
+        "dob": "1964-01-12 19:59:27",
+        "registered": "2016-03-16 14:37:43",
+        "phone": "055-61776931",
+        "cell": "0973-376-9065",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/30.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+        },
+        "nat": "IR"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "mr",
+          "first": "nick",
+          "last": "held"
+        },
+        "location": {
+          "street": "4818 bahnhofstraße",
+          "city": "weimar",
+          "state": "thüringen",
+          "postcode": 56623
+        },
+        "email": "nick.held@example.com",
+        "login": {
+          "username": "heavyduck172",
+          "password": "cubs",
+          "salt": "E2DtuYYt",
+          "md5": "58c222732040572c16075a083a152c56",
+          "sha1": "f0278042563f62f522b1971fbf3b606d5808c3ca",
+          "sha256": "b4dae4dd59030bfe839542bb07d3d61ee797fcc70608726c4923b115f81a39e6"
+        },
+        "dob": "1990-12-02 06:51:23",
+        "registered": "2007-12-06 21:22:19",
+        "phone": "0330-3583987",
+        "cell": "0177-1375678",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/22.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+        },
+        "nat": "DE"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "ms",
+          "first": "addison",
+          "last": "moore"
+        },
+        "location": {
+          "street": "5845 hardy street",
+          "city": "rotorua",
+          "state": "waikato",
+          "postcode": 93852
+        },
+        "email": "addison.moore@example.com",
+        "login": {
+          "username": "redfrog212",
+          "password": "room",
+          "salt": "88img91Y",
+          "md5": "af9f1fcddbb2b7e7daef77d77f0ae5bb",
+          "sha1": "50944b48ac6eeb737c87b7ee0602f408268dac97",
+          "sha256": "ec32d519a8c296d7573ca2b57e3816a2558f4609b47322e47aceb524a2f43441"
+        },
+        "dob": "1977-12-16 13:07:00",
+        "registered": "2006-10-08 03:53:23",
+        "phone": "(849)-354-5103",
+        "cell": "(843)-915-1246",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/21.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
+        },
+        "nat": "NZ"
+      }
+    ],
+    "info": {
+      "seed": "d264a523977113b8",
+      "results": 10,
+      "page": 1,
+      "version": "1.1"
+    }
+  }
+}
+
